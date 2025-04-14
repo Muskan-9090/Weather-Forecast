@@ -1,4 +1,4 @@
-const api_key = "3529e07b82a91b2461d3c8a3287d0d7b" ;
+const api_key = "your api key here" ;
 const button = document.querySelector("#btn");
 function loadInformation(){
     const city = document.querySelector("#location").value;
